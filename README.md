@@ -1,16 +1,9 @@
 # Bitcoin_S4
 
-
-Overworld
-
-Wormhole
-
-Aleo ( node setup ) 
-
-Scroll
-
+follow Bitcoin
+-------------------
 Manta network
-
-
-
-
+scroll
+Aleo ( node setup ) 
+Wormhole
+Overworld
