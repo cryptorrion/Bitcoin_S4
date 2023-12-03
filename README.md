@@ -1,4 +1,4 @@
-# BitcoinCycle04
+# Bitcoin Cycle 4
 
 follow Bitcoin
 -------------------
